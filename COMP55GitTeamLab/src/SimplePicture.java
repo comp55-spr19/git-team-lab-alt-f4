@@ -1,6 +1,13 @@
-//comment one
-//YOOOOOO
-//LOOOOOOO
+/*
+ * Alt-F4
+ * 
+ * GitHub lab
+ * 
+ * Arthur 
+ * Cassidy
+ * Hiroki
+ * Iris
+ */
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
