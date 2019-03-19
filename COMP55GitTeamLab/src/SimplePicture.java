@@ -17,7 +17,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		GLabel label = new GLabel("Cassidy", 200, 400);
 		add(label);
-		//Cassidy's comment
-		//Github is cool
+
+		//Github is cool Hi hi h
 	}
 }
